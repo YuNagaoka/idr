@@ -9,7 +9,7 @@ Irreproducible Discovery Rate (IDR)
 Installation
 ------------
 
-* Get the current repo
+* Get the current repo (edited by YuNagaoka)
 ```
 git clone https://github.com/YuNagaoka/idr
 ```
