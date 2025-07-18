@@ -32,7 +32,7 @@ def main():
         author_email="npboley@gmail.com",
 
         ext_modules=extensions,
-        install_requires=['scipy>=0.13.0'],
+        install_requires=['scipy>=0.13.0','numpy>=1.24.0,<1.27'],
         extras_require={'PLOT': 'matplotlib'},
 
         packages=['idr'],
